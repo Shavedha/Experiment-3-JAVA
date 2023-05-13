@@ -1,4 +1,4 @@
-# Experiment-3-JAVA
+# Experiment-4-JAVA
 ## AIM
 To create a Java program that prints even numbers from 1 to 20
 ## PROCEDURE
